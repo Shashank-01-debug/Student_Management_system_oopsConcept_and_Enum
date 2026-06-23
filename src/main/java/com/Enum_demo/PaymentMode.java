@@ -18,12 +18,8 @@ public enum PaymentMode implements Demo {
 
 	@Override
 	public void demo() {
-	System.out.println("Method from Demo Interface");
-		
+	System.out.println("Method from Demo Interface");		
+	
 	}
 	
-	
-	
-	
-
 }
